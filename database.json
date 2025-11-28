@@ -1,0 +1,12 @@
+{
+  "dev": {
+    "driver": "pg",
+    "host": "localhost",
+    "port": 5432,
+    "database": "ai_chat_db",
+    "username": "postgres",
+    "password": "postgres",
+    "migrations-dir": "migrations"
+  }
+}
+
